@@ -1,4 +1,4 @@
-Current version: 2.02
+Current version: 2.03
 
 
 Arguably my largest project and the first proper game I did from scratch alone.
